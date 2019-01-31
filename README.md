@@ -1,5 +1,5 @@
 # Adventure-Game
 
-Medival features -- Adventures of "Sigfrid"
+Medieval features -- Adventures of "Sigfrid"
 
 -- On further development..
